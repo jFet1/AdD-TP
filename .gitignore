@@ -1,0 +1,38 @@
+# Notebooks temporales
+.ipynb_checkpoints/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*.so
+
+# Config de entornos virtuales
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Archivos de Jupyter de salida
+*.nbconvert.ipynb
+
+# Config VS Code
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs o salidas
+*.log
+*.out
+
+# Archivos grandes de datos (opcional)
+*.csv
+*.xlsx
+*.zip
+*.tar.gz
+*.h5
+
+# Si usás checkpoints de JupyterLab
+.jupyter/lab/workspaces/
