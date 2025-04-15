@@ -1,4 +1,5 @@
 Análisis de temperaturas en estaciones meteorológicas de Argentina
+
 Integrantes
 - CAMPOS, Mariano
 
@@ -7,6 +8,7 @@ Integrantes
 - OJEDA, Juan Cruz
 
 Descripción del repositorio
+
 Este repositorio contiene el trabajo práctico de análisis de datos realizado sobre registros meteorológicos de estaciones del Servicio Meteorológico Nacional (SMN) de Argentina. El proyecto se organiza en torno a dos datasets principales:
 
 Dataset 1: Registros diarios del último año.
@@ -25,4 +27,3 @@ Aborda el proceso de imputación de valores faltantes en el dataset del último 
 
 📓 Parte 3 - Análisis de datos históricos.ipynb
 Se enfoca en el análisis del dataset de los últimos 30 años. Compara valores históricos e identifica patrones regionales.
-
