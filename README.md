@@ -16,6 +16,7 @@ Dataset 1: Registros diarios del último año.
 Dataset 2: Estadísticas normales mensuales para el período 1991–2020 (últimos 30 años).
 
 Estructura del repositorio
+
 📁 datos/
 Contiene los datasets originales utilizados, así como archivos intermedios en formato CSV generados durante la ejecución de los notebooks.
 
