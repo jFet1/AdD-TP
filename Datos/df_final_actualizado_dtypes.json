@@ -1,0 +1,1 @@
+{"dtypes": {"FECHA": "datetime64[ns]", "TMAX": "float64", "TMIN": "float64", "NOMBRE": "object", "mes": "int32", "PROVINCIA": "object", "ALTURA": "object", "LATITUD": "float64", "LONGITUD": "float64"}, "categoricals": []}
