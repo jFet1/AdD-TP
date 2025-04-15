@@ -1,3 +1,3 @@
 CAMPOS, Mariano
 LEPERA, Leandro
-OJEDA, Juan Cruz a1909
+OJEDA, Juan Cruz
