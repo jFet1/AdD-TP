@@ -28,7 +28,7 @@ Thumbs.db
 *.out
 
 # Archivos grandes de datos (opcional)
-*.csv
+#*.csv
 *.xlsx
 *.zip
 *.tar.gz

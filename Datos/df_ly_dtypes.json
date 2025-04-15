@@ -1,0 +1,1 @@
+{"dtypes": {"FECHA": "datetime64[ns]", "TMAX": "float64", "TMIN": "float64", "NOMBRE": "category"}, "categoricals": ["NOMBRE"]}
