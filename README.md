@@ -28,3 +28,7 @@ Aborda el proceso de imputación de valores faltantes en el dataset del último 
 
 📓 Parte 3 - Análisis de datos históricos.ipynb
 Se enfoca en el análisis del dataset de los últimos 30 años. Compara valores históricos e identifica patrones regionales.
+
+Enlace a la presentacion
+
+https://docs.google.com/presentation/d/1wjxgXjENSPXsQDK5dpQpu8kGM9WhFMNTI9AdzU11lhA/edit?usp=sharing
